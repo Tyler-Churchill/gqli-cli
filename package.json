@@ -1,0 +1,21 @@
+{
+  "name": "gqli",
+  "version": "1.0.1",
+  "description": "Command line tools to help create a scaleable GraphQL API server easily",
+  "preferGlobal": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Tyler Churchill",
+  "bin": {
+    "gqli": "./bin/index.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.13.0",
+    "download-git-repo": "^1.0.2",
+    "vorpal": "^1.12.0"
+  }
+}
