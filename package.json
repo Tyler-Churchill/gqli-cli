@@ -1,6 +1,6 @@
 {
   "name": "gqli-cli",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Command line tools GQLI. Quickly begin creating your GraphQL server!",
   "preferGlobal": true,
   "license": "MIT",
