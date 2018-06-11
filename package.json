@@ -1,12 +1,12 @@
 {
-  "name": "gqli",
+  "name": "gqli-cli",
   "version": "1.0.1",
-  "description": "Command line tools to help create a scaleable GraphQL API server easily",
+  "description": "Command line tools GQLI. Quickly begin creating your GraphQL server!",
   "preferGlobal": true,
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Tyler-Churchill/gqli-cli"
   },
   "author": "Tyler Churchill",
   "bin": {
