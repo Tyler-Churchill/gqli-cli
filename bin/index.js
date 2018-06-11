@@ -9,7 +9,6 @@ const util = require("util");
 const exec = util.promisify(require("child_process").exec);
 
 const CLI_NAME = pjson.name;
-const CLI_NAME = pjson.name;
 const CLI_VERSION = pjson.version;
 const GIT_BARE_PROJECT = "Tyler-Churchill/gqli-bare-project";
 const GIT_FULL_PROJECT = "Tyler-Churchill/gqli-starter-project";
